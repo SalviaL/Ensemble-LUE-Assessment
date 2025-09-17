@@ -20,8 +20,8 @@ Tab. 2 Items in the field name.
 Tab. 3 Format of field name.
 | Field name format |
 |-------------------|
-| **<index>_<year>_<prod>**<br><index> in <year> by product <prod> |
-| **<index>_<interval>_<year>_<prod>**<br><index> in <year-interval> to <year> by <prod> |
-| **<index>_<year>_<prod1>&<prod2>**<br><index> in <year> by the combination of <prod1> and <prod2> |
-| **<index>_<interval>_<year>_<prod1>&<prod2>**<br><index> in <year-interval> to <year> by the combination of <prod1> and <prod2> |
-| **<index>_<year>**<br><index>_<interval>_<year>**<br><br>usually for consistency metrics, like cvU_2000, which stands for the CV of built-up area in 2000 by different datasets |
+| **`<index>_<year>_<prod>`**<br>`<index>` in `<year>` by product `<prod>` |
+| **`<index>_<interval>_<year>_<prod>`**<br>`<index>` in `<year-interval>` to `<year>` by `<prod>` |
+| **`<index>_<year>_<prod1>&<prod2>`**<br>`<index>` in `<year>` by the combination of `<prod1>` and `<prod2>` |
+| **`<index>_<interval>_<year>_<prod1>&<prod2>`**<br>`<index>` in `<year-interval>` to `<year>` by the combination of `<prod1>` and `<prod2>` |
+| **`<index>_<year>`**<br>**`<index>_<interval>_<year>`**<br><br>usually for consistency metrics, like `cvU_2000`, which stands for the CV of built-up area in 2000 by different datasets |
